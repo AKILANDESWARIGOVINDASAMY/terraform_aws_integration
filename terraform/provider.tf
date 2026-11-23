@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    
+
     organization = "hcp_demo_practice"
 
     workspaces {
